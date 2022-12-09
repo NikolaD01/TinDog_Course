@@ -1,2 +1,1 @@
-# TinDog_Course
-SIte from Course
+TinDog Starting Files
